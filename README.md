@@ -1,5 +1,5 @@
 # Utils
 
 - regex.py
-  - remove_commnet : Remove Comment
+  - remove_comment : Remove Comment
     - currentLanguage : C
